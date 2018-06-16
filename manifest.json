@@ -1,0 +1,12 @@
+{
+  "name": "Stackoverflow Scroller",
+  "version": "1.0",
+  "description": "scrolling automatically the question part in stackoverflow.com, and to the verified answer (if exist)",
+  "manifest_version": 2,
+  "content_scripts": [
+  {  
+    "matches": ["http://stackoverflow.com/*", "https://stackoverflow.com/*"],
+    "js": ["background.js"],
+    "run_at": "document_end"
+  }]
+}
