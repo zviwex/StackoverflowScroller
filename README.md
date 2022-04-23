@@ -7,9 +7,3 @@ scrolling automatically the question part in stackoverflow.com, and to the verif
 # Installation
 
 Add the root folder as a chrome extention in developer mode
-(Or donate 5$ and I'll upload it to chrome web store :) )
-
-# Contact
-If you have any questions feel free to ping me
-at [here](https://ZviWex.com/) to connect.
-There is also a [mail address](mailto:zvikizviki@gmail.com) for higher latency discussion.
